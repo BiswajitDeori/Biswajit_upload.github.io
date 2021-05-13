@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Biswajit_upload.github.io/static/css/main.4a2f95c9.chunk.css",
+    "main.js": "/Biswajit_upload.github.io/static/js/main.8782ace6.chunk.js",
+    "main.js.map": "/Biswajit_upload.github.io/static/js/main.8782ace6.chunk.js.map",
+    "runtime-main.js": "/Biswajit_upload.github.io/static/js/runtime-main.14c81c72.js",
+    "runtime-main.js.map": "/Biswajit_upload.github.io/static/js/runtime-main.14c81c72.js.map",
+    "static/css/2.800be05e.chunk.css": "/Biswajit_upload.github.io/static/css/2.800be05e.chunk.css",
+    "static/js/2.7a3de6ae.chunk.js": "/Biswajit_upload.github.io/static/js/2.7a3de6ae.chunk.js",
+    "static/js/2.7a3de6ae.chunk.js.map": "/Biswajit_upload.github.io/static/js/2.7a3de6ae.chunk.js.map",
+    "static/js/3.ac5cf594.chunk.js": "/Biswajit_upload.github.io/static/js/3.ac5cf594.chunk.js",
+    "static/js/3.ac5cf594.chunk.js.map": "/Biswajit_upload.github.io/static/js/3.ac5cf594.chunk.js.map",
+    "index.html": "/Biswajit_upload.github.io/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/Biswajit_upload.github.io/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.4a2f95c9.chunk.css.map": "/Biswajit_upload.github.io/static/css/main.4a2f95c9.chunk.css.map",
+    "static/js/2.7a3de6ae.chunk.js.LICENSE.txt": "/Biswajit_upload.github.io/static/js/2.7a3de6ae.chunk.js.LICENSE.txt",
+    "static/media/Admin3.8f667891.jpg": "/Biswajit_upload.github.io/static/media/Admin3.8f667891.jpg",
+    "static/media/Phone.b357e94e.png": "/Biswajit_upload.github.io/static/media/Phone.b357e94e.png",
+    "static/media/admin.82509861.jpeg": "/Biswajit_upload.github.io/static/media/admin.82509861.jpeg",
+    "static/media/admin2.0983a4ea.jpg": "/Biswajit_upload.github.io/static/media/admin2.0983a4ea.jpg",
+    "static/media/email.3fc4aecb.png": "/Biswajit_upload.github.io/static/media/email.3fc4aecb.png",
+    "static/media/hack1.2a5c1d1a.png": "/Biswajit_upload.github.io/static/media/hack1.2a5c1d1a.png",
+    "static/media/map.8c3b62c3.png": "/Biswajit_upload.github.io/static/media/map.8c3b62c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14c81c72.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.7a3de6ae.chunk.js",
+    "static/css/main.4a2f95c9.chunk.css",
+    "static/js/main.8782ace6.chunk.js"
+  ]
+}
