@@ -1,0 +1,88 @@
+
+
+.Profile 
+{
+    
+    width: 100%;
+    text-align: center;
+    
+}
+
+.Profile img
+{
+ 
+    margin-top: 10px;
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;
+    align-items: center;
+    justify-content: center;
+    border:6px solid #4141a7;
+    margin-bottom:2rem;
+}
+
+
+
+.Navbar .nav{
+
+ 
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer
+{
+    margin-top: 290px;
+    width: 100%;
+    
+  
+    border-top: 2px solid #6a6b72;
+
+}
+
+.footer p
+{
+  
+
+    text-align: center;
+    padding: 1.2rem 0;
+     
+}
+
+.nav-items 
+{
+    width: 100%;
+}
+.nav-items .nav-item
+{
+
+    list-style: none;
+    text-align: center;
+
+
+}
+.nav-items .nav-item a
+{
+    text-transform:uppercase;
+    text-decoration: none;
+    font-size: inherit;
+    color: white ;
+    display: block;
+    padding: .8rem 0;
+
+}
+
+.nav-items .nav-item a:hover{
+
+    color: red;
+    transform: scale(1);
+    background-color: salmon;
+    opacity: 0.2;
+    transition: .3s;
+    
+}
+
+

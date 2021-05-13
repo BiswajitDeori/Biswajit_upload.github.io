@@ -1,0 +1,68 @@
+.ServiceSection .service
+{
+width:69%;
+height: auto;
+background-color: rgba(100, 94, 94, 0.349);
+opacity: .8;
+border: 1px 1px 3px 4px solid #2e344e;
+transition: all  .4s ease-in-out;
+}
+
+.ServiceSection .service:hover
+{
+    border-top: 8px solid rgba(40, 86, 212, 0.842) ;
+}
+
+.ServiceSection .service img
+{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    align-items: center;
+   
+    justify-content: center;
+}
+
+.service-container 
+{
+padding: 2rem;
+color: white;
+}
+
+.service-container .s-title
+{
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    font-weight: 400;
+    position: relative;
+    padding-bottom: 1rem;
+    margin:1rem 0;
+
+}
+
+.service-container .s-title:hover
+{
+    transform: scale(1);
+    color: rgb(189, 189, 15);
+}
+.service-container .s-title::after
+{
+    content: "";
+    position: absolute;
+    bottom:0;
+    left: 0;
+    width: 100%;
+    height: .4rem;
+    background-color: rgb(9, 95, 153);
+}
+.service-container 
+{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.service-container .s-text
+{
+
+    color: rgb(168, 161, 161);
+}

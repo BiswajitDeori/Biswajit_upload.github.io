@@ -1,0 +1,61 @@
+.hero-text span {
+    color: #037fff;
+
+    
+}
+
+.leader img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+.hero-text
+{
+  
+    color: white;
+   
+
+} 
+.HomePage
+{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    text-align: center;
+
+}
+
+.icons
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.7rem 0;
+
+
+}
+
+.icons .icon-holder .icon
+{
+    margin-left: 2rem;
+font-size: 2.2rem;
+color: white;
+}
+
+.icons .icon-holder  .fb:hover{
+    color: rgb(21, 59, 182);
+    transition:.3s;
+}
+.icons .icon-holder  .gt:hover{
+    color: rgb(163, 37, 163);
+    transition:.3s;
+}
+.icons .icon-holder .in:hover{
+    color: rgb(163, 108, 118);
+    transition:.3s;
+}
+.icons .icon-holder .yt:hover{
+    color: rgb(219, 44, 44);
+    transition:.3s;
+}

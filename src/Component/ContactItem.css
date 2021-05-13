@@ -1,0 +1,50 @@
+.ContactPage
+{
+    display: flex;
+    padding-left: 2rem;
+}
+
+.contact img{
+width: 40px;
+height: 40px;
+
+}
+.ContactTtem
+{
+    padding-top:2rem;
+    display: flex;
+}
+.ContactPage .contact-sec
+{
+
+}
+.ContactTtem .contact
+{
+    color: white;
+width: 1000%;
+height: 10rem;
+background-color: rgba(49, 50, 53, 0.5);
+padding:1rem 0;
+}
+
+.ContactTtem .contact .right-item
+{
+ margin-left:2rem;
+
+}
+.map_sec
+{
+    width: 80%;
+    
+    padding: 2rem;
+    background-color: rgba(21, 48, 73, 0.747);
+}
+.map_sec iframe
+{
+    width: 100%;
+    height: 100%;
+}
+.contact-sec
+{
+    margin-left: 2rem;
+}
